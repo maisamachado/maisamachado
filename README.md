@@ -1,4 +1,4 @@
-## Hi! I'm Maísa Machado
+## Hi!
 - Beginner developer, currently learning HTML/CSS and JavaScript.👻
 - Contact me on: maisamachado2001@gmail.com
 <!---
