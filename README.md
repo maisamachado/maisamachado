@@ -1,6 +1,5 @@
 ## Hi! I'm Maísa Machado
 - Beginner developer, currently learning HTML/CSS and JavaScript.👻
-- Pronouns: she/her
 - Contact me on: maisamachado2001@gmail.com
 <!---
 maisamachado/maisamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
