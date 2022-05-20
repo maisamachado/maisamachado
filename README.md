@@ -1,4 +1,4 @@
-<h3> Oi! Sou desenvolvedora Java <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h3> Oi! Seja bem vindo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 <!-- <img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='25%'> -->
 
 
