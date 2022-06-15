@@ -1,4 +1,4 @@
-<h3> Oi! Seja bem vindo ></h3>
+<h3> Oi! Seja bem vindo </h3>
 <!-- <img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='25%'> -->
 
 
