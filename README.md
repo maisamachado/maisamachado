@@ -2,7 +2,7 @@
 <!-- <img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='25%'> -->
 
 
-<h3> 🌻 &nbsp;Minhas Skills </h3> 
+<h3> 🌻 &nbsp;Skills: </h3> 
 
 
 
