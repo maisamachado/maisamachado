@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Você pode me contatar em: </h3> 
 
 
 [![Gmail Badge](https://img.shields.io/badge/-maisamachado2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maisamachado2001@gmail.com)](mailto:maisamachado2001@gmail.com)
